@@ -1,0 +1,23 @@
+{
+  "name": "ajs_3_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherry-pynya/ajs_3_node.git"
+  },
+  "author": "cherry-pynya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherry-pynya/ajs_3_node/issues"
+  },
+  "homepage": "https://github.com/cherry-pynya/ajs_3_node#readme",
+  "dependencies": {
+    "@cherry-pynya/netology_ajs_homeworl_3": "^1.0.0"
+  }
+}
